@@ -1,14 +1,14 @@
 # Project-3
 The Web Application for the School of Engineering Sciences is a comprehensive software engineering project developed to streamline and manage various academic processes for the School of Engineering Sciences. The project is designed to facilitate students' interaction with academic resources, administrators, and faculty members. 
-## School of Engineering Sciences Web Application
+# School of Engineering Sciences Web Application
 
 
-# Welcome to the School of Engineering Sciences Web Application, a comprehensive software engineering project developed to streamline and manage various academic processes. This application is designed to enhance the academic experience for students and faculty members alike.
+## Welcome to the School of Engineering Sciences Web Application, a comprehensive software engineering project developed to streamline and manage various academic processes. This application is designed to enhance the academic experience for students and faculty members alike.
 
-# Introduction
+## Introduction
 The School of Engineering Sciences Web Application provides a user-friendly platform for students to interact with academic resources, administrators, and faculty members. It aims to simplify tasks such as student registration, course enrollment, fee payment, assignments, projects, exams, and more.
 
-# Technology Stack
+## Technology Stack
 Frontend: React, Bootstrap, React Router
 Backend: Spring Boot, PostgreSQL, Spring Security, Spring Data JPA
 Features
@@ -28,16 +28,16 @@ Timetable: The application generates individual timetables for students based on
 
 (To be developed) Exams: Students can view exam schedules and access their results securely.
 
-# System Architecture
+## System Architecture
 The application follows the Model-View-Controller (MVC) pattern. The frontend, built using React and Bootstrap, serves as the View layer. Spring Boot acts as the Controller, handling HTTP requests and interacting with the PostgreSQL database, which serves as the Model layer.
 
-# Software Process Model
+## Software Process Model
 The development of this application followed the Agile Software Development process model, enabling iterative and incremental development, fostering flexibility, and encouraging continuous feedback and improvement.
 
-# How to Contribute
+## How to Contribute
 To contribute to this project, fork the repository and submit pull requests for review. Your contributions are highly appreciated!
 
-# Group Members
+## Group Members
 Dillan Ekow Hamah Hammond
 Adu-Gyamfi Michael Kwabena
 Waqas Haaris Ali
