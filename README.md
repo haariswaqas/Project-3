@@ -3,7 +3,7 @@ The Web Application for the School of Engineering Sciences is a comprehensive so
 # School of Engineering Sciences Web Application
 
 
-## Welcome to the School of Engineering Sciences Web Application, a comprehensive software engineering project developed to streamline and manage various academic processes. This application is designed to enhance the academic experience for students and faculty members alike.
+Welcome to the School of Engineering Sciences Web Application, a comprehensive software engineering project developed to streamline and manage various academic processes. This application is designed to enhance the academic experience for students and faculty members alike.
 
 ## Introduction
 The School of Engineering Sciences Web Application provides a user-friendly platform for students to interact with academic resources, administrators, and faculty members. It aims to simplify tasks such as student registration, course enrollment, fee payment, assignments, projects, exams, and more.
@@ -19,12 +19,13 @@ Login and Authentication: Registered students can securely log in using their st
 Student Profile: Students can view and manage their profile information and academic records.
 
 Course List and Registration: Students can browse and register for courses for the semester.
+Assignments: Students can view upcoming assignments with their content and due dates. 
 
 Timetable: The application generates individual timetables for students based on their registered courses.
 
 (To be developed) Fees Payment: Students can view their tuition fees and make online payments.
 
-(To be developed) Assignments, Projects, and Labs: Faculty members can create and manage academic tasks.
+(To be developed) Projects, and Labs: Faculty members can create and manage academic tasks. Structure will be identical to the Assignments feature.
 
 (To be developed) Exams: Students can view exam schedules and access their results securely.
 
